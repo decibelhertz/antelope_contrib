@@ -1,3 +1,5 @@
+CC = c99
+
 PHPDLIB = Orb.so
 
 DATADIR= php

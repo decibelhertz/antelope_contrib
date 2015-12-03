@@ -1,3 +1,4 @@
+CC = c99
 
 DATADIR= templates
 DATA= xphp wwwphp

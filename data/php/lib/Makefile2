@@ -1,3 +1,5 @@
+CC = c99
+
 DATADIR= php/library
 
 DATA=  stanote.inc \

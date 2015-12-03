@@ -1,3 +1,4 @@
+CC = c99
 
 ANTELOPEMAKELOCAL = $(ANTELOPE)/contrib/include/antelopemake.local
 
